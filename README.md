@@ -1,3 +1,5 @@
+Banking DApp
+
 A bank login and wallet connection project involves creating a secure way for users to access their bank accounts and connect them to their digital wallets. The main goal of this project is to provide a seamless user experience while ensuring the security of sensitive information, such as account numbers and passwords.
 
 The project will involve developing a user interface where users can enter their bank login credentials and securely connect their bank accounts to their digital wallets. This will require integration with the bank's API and the digital wallet's API, as well as implementing industry-standard security protocols, such as encryption and multi-factor authentication.
